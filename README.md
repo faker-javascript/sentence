@@ -7,8 +7,14 @@
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/sentence
+npm install @fakerjs/sentence --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/sentence -D
 ```
 
 ## Usage
